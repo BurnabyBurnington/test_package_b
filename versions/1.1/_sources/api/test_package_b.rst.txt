@@ -1,0 +1,12 @@
+test\_package\_b
+================
+
+.. toctree::
+   :maxdepth: 4
+
+   method_here <test_package_b.method_here>
+
+.. automodule:: test_package_b
+   :members:
+   :undoc-members:
+   :show-inheritance:

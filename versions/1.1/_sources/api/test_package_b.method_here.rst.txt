@@ -1,0 +1,7 @@
+test\_package\_b.method\_here
+-----------------------------
+
+.. automodule:: test_package_b.method_here
+   :members:
+   :undoc-members:
+   :show-inheritance:
